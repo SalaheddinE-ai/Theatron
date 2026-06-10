@@ -1,0 +1,84 @@
+[versions]
+
+agp = "8.5.2"
+
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+
+appcompat = "1.6.1"
+material = "1.11.0"
+activity = "1.8.2"
+constraintlayout = "2.1.4"
+recyclerview = "1.3.2"
+
+core = "1.12.0"
+coordinatorlayout = "1.2.0"
+cardview = "1.0.0"
+
+camerax = "1.3.0"
+
+mlkitFaceDetection = "16.1.6"
+
+tensorflowLite = "2.14.0"
+tensorflowLiteSupport = "0.4.4"
+
+volley = "1.2.1"
+glide = "4.16.0"
+okhttp = "4.12.0"
+
+exoplayer = "2.19.1"
+playServicesMaps = "20.0.0"
+
+[libraries]
+
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+
+recyclerview = { group = "androidx.recyclerview", name = "recyclerview", version.ref = "recyclerview" }
+
+core = { group = "androidx.core", name = "core-ktx", version.ref = "core" }
+
+coordinatorlayout = { group = "androidx.coordinatorlayout", name = "coordinatorlayout", version.ref = "coordinatorlayout" }
+
+cardview = { group = "androidx.cardview", name = "cardview", version.ref = "cardview" }
+
+camerax-core = { group = "androidx.camera", name = "camera-core", version.ref = "camerax" }
+
+camerax-camera2 = { group = "androidx.camera", name = "camera-camera2", version.ref = "camerax" }
+
+camerax-lifecycle = { group = "androidx.camera", name = "camera-lifecycle", version.ref = "camerax" }
+
+camerax-view = { group = "androidx.camera", name = "camera-view", version.ref = "camerax" }
+
+mlkit-face-detection = { group = "com.google.mlkit", name = "face-detection", version.ref = "mlkitFaceDetection" }
+
+tensorflow-lite = { group = "org.tensorflow", name = "tensorflow-lite", version.ref = "tensorflowLite" }
+
+tensorflow-lite-support = { group = "org.tensorflow", name = "tensorflow-lite-support", version.ref = "tensorflowLiteSupport" }
+
+volley = { group = "com.android.volley", name = "volley", version.ref = "volley" }
+
+glide = { group = "com.github.bumptech.glide", name = "glide", version.ref = "glide" }
+
+okhttp = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp" }
+
+exoplayer = { group = "com.google.android.exoplayer", name = "exoplayer", version.ref = "exoplayer" }
+
+exoplayer-ui = { group = "com.google.android.exoplayer", name = "exoplayer-ui", version.ref = "exoplayer" }
+play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
+
+[plugins]
+
+android-application = { id = "com.android.application", version.ref = "agp" }

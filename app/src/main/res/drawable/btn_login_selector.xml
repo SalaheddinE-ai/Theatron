@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- État pressé (clic) : Vert -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#4CAF50" />
+            <corners android:radius="25dp" />
+        </shape>
+    </item>
+
+    <!-- État focus : Vert clair -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#66BB6A" />
+            <corners android:radius="25dp" />
+        </shape>
+    </item>
+
+    <!-- État normal : Dégradé rouge -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#7B2D8E"
+                android:endColor="#4A148C"
+                android:angle="135"
+                android:type="linear" />
+            <corners android:radius="25dp" />
+        </shape>
+    </item>
+</selector>

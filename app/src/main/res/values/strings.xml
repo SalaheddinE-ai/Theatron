@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Theatron</string>
+
+    <!-- Main Activity -->
+    <string name="what_to_watch">What would you like to Watch?</string>
+    <string name="search_movies">Search Movies...</string>
+    <string name="new_movies">New Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="search_results">Search Results</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_cinema_icon">Cinema icon</string>
+    <string name="cd_back_button">Back button</string>
+    <string name="cd_search_icon">Search icon</string>
+    <string name="cd_microphone_icon">Microphone icon</string>
+    <string name="cd_movie_poster">Movie poster</string>
+    <string name="cd_star_icon">Star rating icon</string>
+    <string name="cd_nav_profile">Profile</string>
+    <string name="cd_nav_purchased">Purchased movies</string>
+    <string name="cd_nav_favorites">Favorite movies</string>
+    <string name="cd_nav_trending">Trending movies</string>
+    <string name="cd_fab">Floating action button</string>
+
+    <!-- Login -->
+    <string name="login_title">Log in</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forget your password?</string>
+    <string name="login_button">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
+    <string name="app_name_title">Theatron</string>
+    <string name="slogan">Discover the best films</string>
+
+    <!-- Register -->
+    <string name="create_account">Create Account</string>
+    <string name="sign_up_started">Sign up to get started</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="already_account">Already have an account? Login</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="forgot_password_desc">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="send_reset_link">Send Reset Link</string>
+
+    <!-- ChatBot -->
+    <string name="chatbot_title">Theatron AI</string>
+    <string name="chatbot_subtitle">Movie Assistant</string>
+    <string name="type_message">Ask me about movies...</string>
+    <string name="suggestion_recommend">🎬 Recommend a movie</string>
+    <string name="suggestion_trending">🔥 Trending now</string>
+    <string name="suggestion_actors">🎭 Best actors</string>
+    <string name="suggestion_releases">🍿 New releases</string>
+
+    <!-- Camera -->
+    <string name="center_face">Center your face in the frame</string>
+    <string name="verify_age">🔞 Verify Age</string>
+    <string name="get_in">Get In</string>
+    <string name="age_verified">✅ Age verified. You can now enter!</string>
+    <string name="age_verified_welcome">✅ Age verified. Welcome to Theatron!</string>
+    <string name="age_not_verified">❌ Access Denied - 18+ Only</string>
+    <string name="capture_analyze">Capture and Analyze</string>
+    <string name="close_camera">Close Camera</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="capture_button">Capture</string>
+    <string name="close_button">Close camera</string>
+    <string name="cd_switch_camera">Switch camera</string>
+    <string name="cd_capture">Capture photo</string>
+    <string name="cd_close_camera">Close camera</string>
+
+    <!-- Detail -->
+    <string name="summary">Summary</string>
+    <string name="actors">Actors</string>
+    <string name="play_movie">Play Movie</string>
+</resources>
