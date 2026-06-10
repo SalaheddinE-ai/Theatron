@@ -82,6 +82,18 @@ Theatron/
 
 ## Screenshots
 
+### Model de detection Adult
+
+![model](Images/Im1.jpeg)
+
+### Login and Register Pages
+
+![Login](Images/Im1.jpeg)
+
+![Register](Images/Im2.jpeg)
+
+![Authentication](Images/Im3.jpeg)
+
 ### Home Screen
 
 ![Home](Images/Im1.jpeg)
