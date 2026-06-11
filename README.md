@@ -84,37 +84,37 @@ Theatron/
 
 ### Model de detection Adult
 
-![model](Images/Im1.jpeg)
+![model](app/src/main/res/drawable/Im1.jpeg)
 
 ### Login and Register Pages
 
-![Login](Images/Im1.jpeg)
+![Login](app/src/main/res/drawable/Im2.jpeg)
 
-![Register](Images/Im2.jpeg)
+![Register](app/src/main/res/drawable/Im3.jpeg)
 
-![Authentication](Images/Im3.jpeg)
+![Authentication](app/src/main/res/drawable/Im4.jpeg)
 
 ### Home Screen
 
-![Home](Images/Im1.jpeg)
+![Home](app/src/main/res/drawable/Im5.jpeg)
 
 ---
 
 ### Movie Details
 
-![Movie Details](Images/Im2.jpeg)
+![Movie Details](app/src/main/res/drawable/Im6.jpeg)
 
 ---
 
 ### Trailer Section
 
-![Trailer](Images/Im3.jpeg)
+![Trailer](app/src/main/res/drawable/Im7.jpeg)
 
 ---
 
 ### Actors & Cast
 
-![Actors](Images/Im4.jpeg)
+![Actors](app/src/main/res/drawable/Im8.jpeg)
 
 ---
 
