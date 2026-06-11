@@ -84,7 +84,7 @@ Theatron/
 
 ### Model de detection Adult
 
-![logo](app/src/main/res/drawable/La7da.png)
+![logo](app/src/main/res/drawable/la7da.png)
 
 
 
